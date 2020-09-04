@@ -1,1 +1,1 @@
-# sequence-game
+# Sequence
